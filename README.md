@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Qurat-Ul-Ain-Sultan
-- 👀 I’m interested in Web Developement
+- 👀 I’m interested in Web Development
 - 🌱 I’m currently learning and working on Frontend Projects using HTML, CSS, Tailwind CSS and Bootstrap
 - 💞️ I’m looking to collaborate on Frontend Web Projects in about Mentioned Technologies
 - 📫 How to reach me : quratulain.sultan777@gmail.com
