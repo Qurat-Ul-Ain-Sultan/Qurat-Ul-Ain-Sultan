@@ -13,7 +13,7 @@ https://medium.com/@quratulain.sultan777
 https://dev.to/qurat_ul_ain777
 3. Reddit :
 https://www.reddit.com/user/TheTechDiary/
-4. Blogger:
+4. Blog:
 https://the-techdiary.blogspot.com/
 5. Frontend Mentor:
 https://www.frontendmentor.io/profile/Qurat-Ul-Ain-Sultan
